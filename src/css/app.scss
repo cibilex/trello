@@ -1,0 +1,18 @@
+// app global css in SCSS form
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Dosis:wght@300&family=Josefin+Slab:wght@500&family=PT+Serif&family=Patua+One&family=Righteous&family=Train+One&family=Viaoda+Libre&display=swap');
+// font-family: 'Amiri', serif;
+// font-family: 'Dosis', sans-serif;
+// font-family: 'Josefin Slab', serif;
+// font-family: 'Patua One', cursive;
+// font-family: 'PT Serif', serif;
+// font-family: 'Righteous', cursive;
+// font-family: 'Train One', cursive;
+// font-family: 'Viaoda Libre', cursive;
+
+
+.flex-break{
+    flex:1 0 100% !important;
+}
+.row .flex-break{
+    height: 0px !important;
+}
